@@ -20,6 +20,7 @@ Are you fed up of typing a lot of links, Here i have come up with a cool Chrome 
 
 
 ## screenshots
+![screenshot 1](https://github.com/swaager/1_in_All-Extension/blob/master/Screenshot%20from%202018-03-25%2006-55-44.png)<br/>
 
 
 ## Development
